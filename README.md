@@ -12,7 +12,7 @@ PORT=9000
 
 MONGO_URL=mongodb+srv://arkas:gxmZ5o5Z3sdRyDAs@graphql-todo.uqv1bgd.mongodb.net/environmental_awareness_dashboard
 
-OPEN_WEATHER_API_KEY=eb1e413a47msh01131ac642bf46cp13daf0jsn74162f243860
+OPEN_WEATHER_API_KEY=ffd2f88a623ef8dcc5b13c926ed82099
 ```
 
 - Step 4: Now to run the server run this command ``` npm run start ```. If every thing went well you will see these message in console "Server is running on port 9000
